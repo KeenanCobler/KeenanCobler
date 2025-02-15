@@ -11,6 +11,6 @@ Currently working on-
     <li>Markdown</li>
     <li>Python</li>
     <li>Linux CLI</li>
+    <li>Powershell</li>
   </ul>
 
-  
